@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CounterTSX/static/css/main.9cd589df.chunk.css",
+    "main.js": "/CounterTSX/static/js/main.13ddf6e1.chunk.js",
+    "main.js.map": "/CounterTSX/static/js/main.13ddf6e1.chunk.js.map",
+    "runtime-main.js": "/CounterTSX/static/js/runtime-main.829c5143.js",
+    "runtime-main.js.map": "/CounterTSX/static/js/runtime-main.829c5143.js.map",
+    "static/js/2.cb0895a5.chunk.js": "/CounterTSX/static/js/2.cb0895a5.chunk.js",
+    "static/js/2.cb0895a5.chunk.js.map": "/CounterTSX/static/js/2.cb0895a5.chunk.js.map",
+    "index.html": "/CounterTSX/index.html",
+    "precache-manifest.3a8b17abef51c20fb0f3a8d17703539e.js": "/CounterTSX/precache-manifest.3a8b17abef51c20fb0f3a8d17703539e.js",
+    "service-worker.js": "/CounterTSX/service-worker.js",
+    "static/css/main.9cd589df.chunk.css.map": "/CounterTSX/static/css/main.9cd589df.chunk.css.map",
+    "static/js/2.cb0895a5.chunk.js.LICENSE.txt": "/CounterTSX/static/js/2.cb0895a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.829c5143.js",
+    "static/js/2.cb0895a5.chunk.js",
+    "static/css/main.9cd589df.chunk.css",
+    "static/js/main.13ddf6e1.chunk.js"
+  ]
+}
